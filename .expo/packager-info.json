@@ -1,0 +1,10 @@
+{
+  "devToolsPort": 19002,
+  "expoServerPort": 19000,
+  "packagerPort": 19001,
+  "packagerPid": 11594,
+  "expoServerNgrokUrl": "https://cf-bfs.anonymous.rn-starter.exp.direct",
+  "packagerNgrokUrl": "https://packager.cf-bfs.anonymous.rn-starter.exp.direct",
+  "ngrokPid": 27928,
+  "webpackServerPort": null
+}
